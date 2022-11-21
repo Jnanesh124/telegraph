@@ -38,7 +38,7 @@
             "description": "Bot Owner UserID"
         },
         "BACKUP_CHANNEL": {
-"description": "Bot Backup Channel Without @"
+            "description": "Bot Backup Channel Without @"
         },
         "HOME_TEXT": {
             "description": "Good Bye Msg"
@@ -78,7 +78,7 @@
             "value": "300"
         },
         "FORCE_SUB":{
-"description": "Set to true to force a new subscription",
+            "description": "Set to true to force a new subscription",
             "required": false,
             "value": "False"
         },
