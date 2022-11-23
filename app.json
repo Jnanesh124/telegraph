@@ -97,7 +97,7 @@
     },
     "buildpacks": [
         {
-            "url": "heroku/python"
+            "url": "heroku/ruby"
         }
     ],
     "formation": {
