@@ -97,7 +97,7 @@
     },
     "buildpacks": [
         {
-            "url": "heroku/ruby"
+            "url": "heroku/php"
         }
     ],
     "formation": {
